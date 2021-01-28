@@ -1,7 +1,7 @@
 # jpa03-namabilly
 
 
-Repo: https://ucsb-cs156-w21/jpa03-namabilly
+Repo: https://github.com/ucsb-cs156-w21/jpa03-namabilly
 
 On Heroku: https://jpa03-zhengwei.herokuapp.com
 
